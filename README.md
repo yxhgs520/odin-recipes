@@ -9,7 +9,7 @@ The project consists of a main index page linked to various recipe pages.
 * HTML5
 
 ## Project Structure
-- `index2.html`: The main landing page.
+- `index.html`: The main landing page.
 - `recipes/`: A directory containing detailed recipe pages (e.g., [boiledfish.html](https://github.com/yxhgs520/odin-recipes/tree/main/recipes)).
 - `pictures/`: A folder for storing all food images used in the project.
 
